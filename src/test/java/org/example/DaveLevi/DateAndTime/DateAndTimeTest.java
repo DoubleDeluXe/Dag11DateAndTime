@@ -46,12 +46,6 @@ public class DateAndTimeTest {
         //calendar.setTime(date);
     }
 
-    @Test
-    public void CardTest() {
-        Card threeOfclubs = new Card(3,0);
-        Card aceOfHearts = new Card(1, 2);
-        System.out.println(threeOfclubs.toString());
-        System.out.println(aceOfHearts.toString());
-    }
+
 
 }
